@@ -1,6 +1,6 @@
 # PROJECT HUB
 
-Listes des projets à réaliser
+Current or to be developed projects
 
 ## Web
 

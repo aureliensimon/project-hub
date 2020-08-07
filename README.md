@@ -16,6 +16,6 @@ Listes des projets à réaliser
 - [ ] Create programming language
 
 
-# Harware & Software
+## Harware & Software
 
 - [ ] Animal tracker

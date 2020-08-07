@@ -12,6 +12,7 @@ Listes des projets à réaliser
 - [ ] N-Body simulation
 - [ ] Empire cellular Automata
 - [ ] Ant Colony Optimization
+- [ ] Sudoku solver
 
 
 # Harware & Software

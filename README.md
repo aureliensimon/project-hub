@@ -14,7 +14,8 @@ Current or to be developed projects
 - [ ] Ant Colony Optimization
 - [ ] Sudoku solver
 - [ ] Create programming language
-
+- [ ] Graph visualization Dicebot strategies
+ 
 
 ## Harware & Software
 

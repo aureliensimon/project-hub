@@ -17,7 +17,7 @@ List of all finished / current / to be developed projects
 - [ ] N-Body simulation
 - [ ] Empire cellular Automata
 - [ ] Ant Colony Optimization
-- [ ] Sudoku solver
+- [x] [Sudoku solver](https://github.com/Gouderg/JosephIA/blob/master/game/sudoku.py)
 - [ ] Create programming language
 - [ ] Graph visualization Dicebot strategies
  
